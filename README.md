@@ -4,4 +4,6 @@ Dit project bevat een WebComponent die een lijst van evenementen weergeeft in ee
 
 ## Instructies voor opzetten/testen
 
-Mits dit zuivere HTML, CSS en JavaScript is kan je het lokaal bekijken door de repository te clonen, maar ik zal zo snel mogelijk bekijken wat de opties zijn om het via een optie zoals GitHub Pages weer te kunnen geven.
+De pagina kan u hier bekijken: https://zl-elias.github.io/district09-opdracht/
+
+U kan het ook lokaal bekijken door deze repository te clonen.
